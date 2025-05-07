@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <sitemap>
-      <loc>https://wordleunlimitedplay.click/sitemap/sitemap.xml</loc>
-      <lastmod>2024-04-26</lastmod>
-   </sitemap>
-</sitemapindex> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://wordleunlimitedplay.click/</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://wordleunlimitedplay.click/mobile-games/</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://wordleunlimitedplay.click/platform-games.html</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://wordleunlimitedplay.click/adventure-games.html</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://wordleunlimitedplay.click/tournament-games.html</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://wordleunlimitedplay.click/multilevel-games.html</loc>
+    <lastmod>2023-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Add more game pages here -->
+</urlset> 

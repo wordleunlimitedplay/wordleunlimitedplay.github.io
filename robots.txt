@@ -1,6 +1,8 @@
 User-agent: *
-Allow: /
 Disallow: /wp-admin/
-Disallow: /wp-includes/
-
-Sitemap: https://wordleunlimitedplay.click/sitemap.xml
+Disallow: /wp-json/
+Disallow: /loader.php
+Disallow: /privacy-policy.html
+Disallow: /copyright.html
+Disallow: /terms-of-use.html
+Sitemap: http://wordleunlimitedplay.click/sitemap.xml
